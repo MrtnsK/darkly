@@ -1,7 +1,7 @@
 Pour cette faille il suffit d'inspecter l'élément dans la page survey.
 La faille ce situe dans les values des "option" de "select".
-Il faut modifier une des value avec l'int max (2147483647) puis ensuite 
-selectionner l'option qui correspond a celle qu'on a modifier.
+Il faut modifier une des value pour qu'elle soit supérieur au valeur proposer puis ensuite 
+selectionner l'option qui correspond à celle qu'on a modifier.
 
 Une sécurité dans le backend pourrais corriger cette faille
 

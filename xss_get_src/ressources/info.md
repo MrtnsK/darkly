@@ -10,3 +10,5 @@ Sources concernant le payload :
     EMBED SVG Which Contains XSS Vector from https://owasp.org/www-community/xss-filter-evasion-cheatsheet
 
 Pour éviter ce genre de faille l'idéal serais de stocker ces images dans une base de donnée
+
+flag : 928D819FC19405AE09921A2B71227BD9ABA106F9D2D37AC412E9E5A750F1506D
